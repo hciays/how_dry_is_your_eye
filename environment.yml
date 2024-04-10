@@ -1,0 +1,14 @@
+name: how_dry_is_your_eye
+dependencies:
+  -python=3.10
+  -pytorch
+  -pytorch-lightning
+  -torchmetrics
+  -opencv-python-headless
+channels:
+  -pytorch
+  -conda-forge
+  -anaconda
+  -fastai
+
+
